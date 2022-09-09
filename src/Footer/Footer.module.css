@@ -1,0 +1,15 @@
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 160px;
+    background-color: dodgerblue;
+}
+.containerFooter {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.title {
+    background-color: #d28251;
+}
