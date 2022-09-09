@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rsschool-cv-react/static/css/main.073c9b0a.css",
+    "main.js": "/rsschool-cv-react/static/js/main.3dea0e06.js",
+    "static/js/787.28949e51.chunk.js": "/rsschool-cv-react/static/js/787.28949e51.chunk.js",
+    "static/media/logo.svg": "/rsschool-cv-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rsschool-cv-react/index.html",
+    "main.073c9b0a.css.map": "/rsschool-cv-react/static/css/main.073c9b0a.css.map",
+    "main.3dea0e06.js.map": "/rsschool-cv-react/static/js/main.3dea0e06.js.map",
+    "787.28949e51.chunk.js.map": "/rsschool-cv-react/static/js/787.28949e51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3dea0e06.js"
+  ]
+}
